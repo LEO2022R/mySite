@@ -128,3 +128,8 @@ a {
     color:fuchsia;
 }
 
+#contact{
+    background: firebrick; 
+    margin-top: 100px;
+}
+#contact iframe{width:100%;}
